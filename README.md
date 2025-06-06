@@ -21,3 +21,13 @@ A simple and interactive web application that calculates the **final price** of 
 1. Clone this repository:
    ```sh
    git clone https://github.com/smalakargh/percentageOffCalc.git
+2. Change directory:
+   ```sh
+   cd percentageOffCalc
+3. Open index.html
+
+###💡 Contributions & Feedback are welcome! Feel free to fork the repo, create a pull request, or suggest improvements.
+
+## Contact
+Maintained by Smalakar.  
+[![Smalakar LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5)](https://www.linkedin.com/in/supriyomalakar/)
