@@ -26,7 +26,8 @@ A simple and interactive web application that calculates the **final price** of 
    cd percentageOffCalc
 3. Open index.html
 
-###💡 Contributions & Feedback are welcome! Feel free to fork the repo, create a pull request, or suggest improvements.
+
+💡 Contributions & Feedback are welcome! Feel free to fork the repo, create a pull request, or suggest improvements.
 
 ## Contact
 Maintained by Smalakar.  
